@@ -75,8 +75,7 @@ Researched **UPI fraud and cybercrime practices**, focusing on how scammers expl
 * Report fraud at: [https://cybercrime.gov.in](https://cybercrime.gov.in)
 * Helpline: **1930**
 
-**Personal Takeaway:**
-I will verify all financial requests and avoid trusting unknown links or urgent messages.
+
 
 
 
