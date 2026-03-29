@@ -2,13 +2,12 @@
 
 ## Student Details
 
-* **Name:** Suraj Bisht
-* **Registration No:** 25BAI11123
+* **Name:** Vansh Singhal
+* **Registration No:** 25BAI11477
 * **Course:** Digital Literacy
-* **Faculty:** Bandla Pavan Babu
+* **Faculty:** Kannan
 * **College:** VIT Bhopal
 
----
 
 ## Module Summary
 
@@ -22,7 +21,6 @@ Designed an infographic using Canva covering:
 
 **Key Learning:** Effective communication requires concise content and strong visual hierarchy.
 
----
 
 ### Task 2: Digital Portfolio Setup
 
@@ -34,7 +32,6 @@ Platforms used:
 
 **Future Plan:** Build projects, practice DSA, participate in competitions, and grow industry connections.
 
----
 
 ### Task 3: Coding & Collaboration
 
@@ -44,7 +41,6 @@ Platforms used:
 
 **Outcome:** Strengthened coding fundamentals and learned collaborative tools.
 
----
 
 ### Task 4: Professional Communication
 
@@ -56,7 +52,6 @@ Platforms used:
 
 **Key Insight:** Structured and respectful communication avoids misunderstandings.
 
----
 
 ### Task 5: Cyber Awareness & Safety
 
@@ -83,13 +78,8 @@ Researched **UPI fraud and cybercrime practices**, focusing on how scammers expl
 **Personal Takeaway:**
 I will verify all financial requests and avoid trusting unknown links or urgent messages.
 
----
 
-## Project Resources / Links
 
-* LinkedIn: [https://www.linkedin.com/in/suraj-bisht-28b991316/](https://www.linkedin.com/in/suraj-bisht-28b991316/)
-* https://github.com/suraewe
-* https://forms.gle/gFj7XaYbPcbLogL47
 
----
+
 
