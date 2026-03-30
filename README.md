@@ -27,7 +27,7 @@ Designed an infographic using Canva covering:
 Platforms used:
 
 * **GitHub:** Project portfolio and code hosting
-* **LinkedIn:** Professional networking
+* **StackOverflow:** question platform
 * **Kaggle:** Data science and ML practice
 
 **Future Plan:** Build projects, practice DSA, participate in competitions, and grow industry connections.
