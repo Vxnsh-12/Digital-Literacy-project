@@ -5,7 +5,7 @@
 * **Name:** Vansh Singhal
 * **Registration No:** 25BAI11477
 * **Course:** Digital Literacy( CSE0001)
-* **Faculty:** Kannan
+* **Faculty:** Dr Kannan
 * **College:** VIT Bhopal
 
 
